@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Nasser-96
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me nasserabunasir96@outlook.com
 
 <!---
 Nasser-96/Nasser-96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

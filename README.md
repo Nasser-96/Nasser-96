@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nasser-96
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java
 - 📫 How to reach me nasserabunasir96@outlook.com
 

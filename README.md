@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nasser-96
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning Java
 - 📫 How to reach me nasserabunasir96@outlook.com
 
 <!---
